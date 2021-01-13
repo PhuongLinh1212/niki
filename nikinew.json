@@ -1,0 +1,65 @@
+{
+  "ads": {
+    "id_app": "5fe60d31d1c04c042b15138e",
+    "flury_id": "flury_id",
+    "banner_setting": "ca-app-pub-2277813866725244/3365829515",
+    "inter_setting": "ca-app-pub-2277813866725244/8506475559",
+    "banner_main": "ca-app-pub-2277813866725244/7002833952",
+    "inter_main": "ca-app-pub-2277813866725244/7716138064",
+    "banner_setting_new": "",
+    "inter_setting_new": "",
+    "banner_main_new": "",
+    "inter_main_new": "",
+    "onlyAdmod": true,
+    "onlyFB": false,
+    "fb_banner": "",
+    "fb_inter": ""
+  },
+  "app_exists": {
+    "id": "com.king.candycrushsaga",
+    "is_exists": true,
+    "is_show_more": true,
+    "isLoading": false,
+    "isShowAds": true,
+    "onlyAdsMe": true,
+    "bg": "https://play-lh.googleusercontent.com/8gaz8rbPJ7hCtl-kU1mQwm04-awVv5TDSJjEfmEKRDp1hipKn2nlRmLKEmSDib7uqCk=w1440-h620-rw"
+  },
+  "apps": [
+    {
+      "id": "com.painting.colorful.coloringbook.fillcolor",
+      "icon": "https://lh3.googleusercontent.com/nJcgTrETflv8liaA-3zrv7po7NyfKDMpMswbazxx6oWGnNAzT4D1mPniyX0nOrE-YnaV=s360-rw",
+      "des": "Functional QR scanner and barcode reader that requires little storage",
+      "banner_250": "",
+      "banner_50": "",
+      "name": "QR & Barcode Scanner",
+      "inter": "https://github.com/PhuongLinh1212/niki/raw/main/Group%209.png",
+      "s1": "https://lh3.googleusercontent.com/ORfmbxIzj6w1CIY04CS58oTKsR_VGjQSjMdP637DTUzZ19fK_Y7g_Yiz6o2CKbOdYwl3=w1440-h620-rw",
+      "s2": "https://lh3.googleusercontent.com/WwuAY9C1UrY7b8MDv1GdElB1cSj8LzLlOOcVANmRwG2dsq5r2Yo7YiFcDnzOZJon1pQ=w1440-h620-rw",
+      "s3": "https://lh3.googleusercontent.com/VxEKVZFJBP7sJNxsAsCaBqHGKssL29o907PkSEBhvhc-2wiv4hLQX8_FK08wI5NiesQ=w1440-h620-rw"
+    },
+     {
+      "id": "com.game.jewels.legend.jewellegend.free",
+      "icon": "https://lh3.googleusercontent.com/nJcgTrETflv8liaA-3zrv7po7NyfKDMpMswbazxx6oWGnNAzT4D1mPniyX0nOrE-YnaV=s360-rw",
+      "des": "Functional QR scanner and barcode reader that requires little storage",
+      "banner_250": "",
+      "banner_50": "",
+      "name": "QR & Barcode Scanner",
+      "inter": "https://github.com/PhuongLinh1212/niki/raw/main/Group%208.png",
+      "s1": "https://lh3.googleusercontent.com/ORfmbxIzj6w1CIY04CS58oTKsR_VGjQSjMdP637DTUzZ19fK_Y7g_Yiz6o2CKbOdYwl3=w1440-h620-rw",
+      "s2": "https://lh3.googleusercontent.com/WwuAY9C1UrY7b8MDv1GdElB1cSj8LzLlOOcVANmRwG2dsq5r2Yo7YiFcDnzOZJon1pQ=w1440-h620-rw",
+      "s3": "https://lh3.googleusercontent.com/VxEKVZFJBP7sJNxsAsCaBqHGKssL29o907PkSEBhvhc-2wiv4hLQX8_FK08wI5NiesQ=w1440-h620-rw"
+    },
+     {
+      "id": "com.game.vlad.niki.locks.bubble.eggs.shooter",
+      "icon": "https://lh3.googleusercontent.com/nJcgTrETflv8liaA-3zrv7po7NyfKDMpMswbazxx6oWGnNAzT4D1mPniyX0nOrE-YnaV=s360-rw",
+      "des": "Functional QR scanner and barcode reader that requires little storage",
+      "banner_250": "",
+      "banner_50": "",
+      "name": "QR & Barcode Scanner",
+      "inter": "https://github.com/PhuongLinh1212/niki/raw/main/Group%2010.png",
+      "s1": "https://lh3.googleusercontent.com/ORfmbxIzj6w1CIY04CS58oTKsR_VGjQSjMdP637DTUzZ19fK_Y7g_Yiz6o2CKbOdYwl3=w1440-h620-rw",
+      "s2": "https://lh3.googleusercontent.com/WwuAY9C1UrY7b8MDv1GdElB1cSj8LzLlOOcVANmRwG2dsq5r2Yo7YiFcDnzOZJon1pQ=w1440-h620-rw",
+      "s3": "https://lh3.googleusercontent.com/VxEKVZFJBP7sJNxsAsCaBqHGKssL29o907PkSEBhvhc-2wiv4hLQX8_FK08wI5NiesQ=w1440-h620-rw"
+    }
+  ]
+}
